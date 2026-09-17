@@ -1,0 +1,20 @@
+# 官方源素材及由其生成的视觉资产：纯分析版禁止提交
+private_assets/source/**
+!private_assets/source/README.md
+private_assets/derived/**
+!private_assets/derived/README.md
+private_assets/outputs/**
+!private_assets/outputs/README.md
+
+# 防止从原项目或本地工作区误复制进来
+123罗德岛_官方原图/
+style/
+**/*.jpg
+**/*.jpeg
+**/*.png
+**/*.webp
+
+# 本地运行产物
+__pycache__/
+*.py[cod]
+.DS_Store

@@ -1,0 +1,226 @@
+[
+  {
+    "group": "core",
+    "id": "026",
+    "source": "private_assets/source/123罗德岛_官方原图/013_黑角篇/01.jpg",
+    "panel": 1,
+    "crop_xyxy": [
+      87,
+      60,
+      564,
+      411
+    ],
+    "file": "private_assets/derived/reference_crops/core_026_p1.png",
+    "reason": "常态眼睛、低五官、发块与硬边高光"
+  },
+  {
+    "group": "core",
+    "id": "099",
+    "source": "private_assets/source/123罗德岛_官方原图/049_迷迭香篇/02.jpg",
+    "panel": 1,
+    "crop_xyxy": [
+      87,
+      60,
+      564,
+      411
+    ],
+    "file": "private_assets/derived/reference_crops/core_099_p1.png",
+    "reason": "浅发色、半睁眼与极简脸部"
+  },
+  {
+    "group": "core",
+    "id": "145",
+    "source": "private_assets/source/123罗德岛_官方原图/072_铎铃篇/01.jpg",
+    "panel": 1,
+    "crop_xyxy": [
+      87,
+      60,
+      564,
+      411
+    ],
+    "file": "private_assets/derived/reference_crops/core_145_p1.png",
+    "reason": "圆脸、浅色发型与浅背景线描"
+  },
+  {
+    "group": "core",
+    "id": "628",
+    "source": "private_assets/source/123罗德岛_官方原图/312_华法琳篇/01.jpg",
+    "panel": 3,
+    "crop_xyxy": [
+      87,
+      820,
+      564,
+      1172
+    ],
+    "file": "private_assets/derived/reference_crops/core_628_p3.png",
+    "reason": "深浅色服装、兴奋表情与简化手势"
+  },
+  {
+    "group": "character",
+    "id": "115",
+    "source": "private_assets/source/123罗德岛_官方原图/057_巡林者篇/02.jpg",
+    "panel": 2,
+    "crop_xyxy": [
+      87,
+      440,
+      564,
+      791
+    ],
+    "file": "private_assets/derived/reference_crops/character_115_p2.png",
+    "reason": "非人头型、短肢体、服装结构压缩"
+  },
+  {
+    "group": "character",
+    "id": "538",
+    "source": "private_assets/source/123罗德岛_官方原图/267_空爆篇/02.jpg",
+    "panel": 2,
+    "crop_xyxy": [
+      87,
+      440,
+      564,
+      791
+    ],
+    "file": "private_assets/derived/reference_crops/character_538_p2.png",
+    "reason": "人形全身、短腿与宽大头部"
+  },
+  {
+    "group": "character",
+    "id": "567",
+    "source": "private_assets/source/123罗德岛_官方原图/282_山篇/01.jpg",
+    "panel": 1,
+    "crop_xyxy": [
+      87,
+      60,
+      564,
+      411
+    ],
+    "file": "private_assets/derived/reference_crops/character_567_p1.png",
+    "reason": "宽体型与窄体型的同场比例"
+  },
+  {
+    "group": "character",
+    "id": "535",
+    "source": "private_assets/source/123罗德岛_官方原图/266_铸铁篇/01.jpg",
+    "panel": 2,
+    "crop_xyxy": [
+      87,
+      440,
+      564,
+      791
+    ],
+    "file": "private_assets/derived/reference_crops/character_535_p2.png",
+    "reason": "两个人形全身、走路轮廓与鞋手"
+  },
+  {
+    "group": "expression",
+    "id": "050",
+    "source": "private_assets/source/123罗德岛_官方原图/025_濯尘芙蓉篇/01.jpg",
+    "panel": 4,
+    "crop_xyxy": [
+      87,
+      1200,
+      564,
+      1553
+    ],
+    "file": "private_assets/derived/reference_crops/expression_050_p4.png",
+    "reason": "放大椭圆眼、小方嘴、放射强调"
+  },
+  {
+    "group": "expression",
+    "id": "117",
+    "source": "private_assets/source/123罗德岛_官方原图/058_谜图篇/02.jpg",
+    "panel": 4,
+    "crop_xyxy": [
+      87,
+      1200,
+      564,
+      1553
+    ],
+    "file": "private_assets/derived/reference_crops/expression_117_p4.png",
+    "reason": "脸部染色、空白镜片与崩溃气氛"
+  },
+  {
+    "group": "expression",
+    "id": "184",
+    "source": "private_assets/source/123罗德岛_官方原图/091_杰西卡篇/02.jpg",
+    "panel": 3,
+    "crop_xyxy": [
+      87,
+      820,
+      564,
+      1172
+    ],
+    "file": "private_assets/derived/reference_crops/expression_184_p3.png",
+    "reason": "眼睛膨胀、多点反光与泪水"
+  },
+  {
+    "group": "expression",
+    "id": "292",
+    "source": "private_assets/source/123罗德岛_官方原图/145_红隼篇/01.jpg",
+    "panel": 4,
+    "crop_xyxy": [
+      87,
+      1200,
+      564,
+      1553
+    ],
+    "file": "private_assets/derived/reference_crops/expression_292_p4.png",
+    "reason": "失控大笑、喷泪与方形大嘴"
+  },
+  {
+    "group": "composition",
+    "id": "137",
+    "source": "private_assets/source/123罗德岛_官方原图/068_火哨篇/01.jpg",
+    "panel": 0,
+    "crop_xyxy": [
+      0,
+      0,
+      600,
+      1636
+    ],
+    "file": "private_assets/derived/reference_crops/composition_137_p0.png",
+    "reason": "固定机位、左右并排子格与末格变化"
+  },
+  {
+    "group": "composition",
+    "id": "198",
+    "source": "private_assets/source/123罗德岛_官方原图/098_寒檀篇/02.jpg",
+    "panel": 2,
+    "crop_xyxy": [
+      87,
+      440,
+      564,
+      791
+    ],
+    "file": "private_assets/derived/reference_crops/composition_198_p2.png",
+    "reason": "高机位、群体站位与视线组织"
+  },
+  {
+    "group": "composition",
+    "id": "236",
+    "source": "private_assets/source/123罗德岛_官方原图/117_戴菲恩篇/02.jpg",
+    "panel": 1,
+    "crop_xyxy": [
+      87,
+      60,
+      564,
+      411
+    ],
+    "file": "private_assets/derived/reference_crops/composition_236_p1.png",
+    "reason": "室外草地、近景遮挡与远景层次"
+  },
+  {
+    "group": "composition",
+    "id": "438",
+    "source": "private_assets/source/123罗德岛_官方原图/217_行箸篇/02.jpg",
+    "panel": 1,
+    "crop_xyxy": [
+      87,
+      60,
+      564,
+      411
+    ],
+    "file": "private_assets/derived/reference_crops/composition_438_p1.png",
+    "reason": "室内桌面、结构线与人物主次"
+  }
+]
